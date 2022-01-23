@@ -1,0 +1,2 @@
+# gadaUp
+gadaUp FinTech project
